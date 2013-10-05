@@ -154,7 +154,7 @@ public class spiral_printing {
 
     public static void main (String[] args) {
 	    //File file = new File(args[0]);
-	    File file = new File("C:\\Users\\Gavin_2\\Documents\\Java Projects\\SpiralPrintingTest.txt");
+	    File file = new File("C:\\Users\\Gavin\\Documents\\GitHub\\MiniProjects\\SpiralPrintingTest.txt");
 	    try{
 	    	BufferedReader in = new BufferedReader(new FileReader(file));
 	    	String line;
